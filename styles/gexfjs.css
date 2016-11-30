@@ -227,11 +227,11 @@ div.smallpill {
 }
 
 a {
-    color: #aaa; font-weight: bold; text-decoration: none;
+    color: #aaa; text-decoration: none;
 }
 
 a:hover {
-    color: #333333; background-color:#ffff00;
+    font-weight: bold; color: #333333; background-color:#ffff00;
 }
 
 /* AUTOCOMPLETE */
