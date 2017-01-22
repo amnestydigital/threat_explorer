@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2017-01-22">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="VerifiedStatus" title="VerifiedStatus" type="boolean"></attribute>
+      <attribute id="Followers" title="Followers" type="float"></attribute>
+      <attribute id="Friends" title="Friends" type="float"></attribute>
+      <attribute id="Tweets" title="Tweets" type="float"></attribute>
+      <attribute id="Site" title="Site" type="string"></attribute>
+      <attribute id="Location" title="Location" type="string"></attribute>
+      <attribute id="Created" title="Created" type="string"></attribute>
+      <attribute id="indegree" title="In-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Out-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="8" label="arslanghufran">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="47.0"></attvalue>
+          <attvalue for="Friends" value="240.0"></attvalue>
+          <attvalue for="Tweets" value="2.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Nov 20 2013"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.631578947368421"></attvalue>
+          <attvalue for="betweenesscentrality" value="31.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="85.0"></viz:size>
+        <viz:position x="101.08106" y="289.18954" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="35" label="salem_alak">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="111.0"></attvalue>
+          <attvalue for="Friends" value="21.0"></attvalue>
+          <attvalue for="Tweets" value="3.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Aug 19 2012"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-152.18361" y="285.54144" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="40" label="aalbushaier">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="43.0"></attvalue>
+          <attvalue for="Friends" value="21.0"></attvalue>
+          <attvalue for="Tweets" value="0.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Sep 10 2013"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-229.47272" y="219.64322" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="4" label="almoshakes55555">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="129.0"></attvalue>
+          <attvalue for="Friends" value="575.0"></attvalue>
+          <attvalue for="Tweets" value="1.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="El Daqahlia; Egypt"></attvalue>
+          <attvalue for="Created" value="Nov 01 2014"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5789473684210527"></attvalue>
+          <attvalue for="betweenesscentrality" value="48.5"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-95.87914" y="115.373604" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="36" label="CGCQatar">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="284.0"></attvalue>
+          <attvalue for="Friends" value="9.0"></attvalue>
+          <attvalue for="Tweets" value="0.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Dec 10 2012"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-60.404846" y="273.96274" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="44" label="AlHoudaj">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="49.0"></attvalue>
+          <attvalue for="Friends" value="1.0"></attvalue>
+          <attvalue for="Tweets" value="0.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Mar 18 2013"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="55.012737" y="129.58514" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="31" label="attiya_sabir">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="179.0"></attvalue>
+          <attvalue for="Friends" value="7.0"></attvalue>
+          <attvalue for="Tweets" value="9.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Nov 14 2012"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="110.17905" y="142.93053" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="9" label="JA111122">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="332.0"></attvalue>
+          <attvalue for="Friends" value="34.0"></attvalue>
+          <attvalue for="Tweets" value="1441.0"></attvalue>
+          <attvalue for="Site" value="http://www.generalqatar.com"></attvalue>
+          <attvalue for="Location" value=" QATAR"></attvalue>
+          <attvalue for="Created" value="May 11 2011"></attvalue>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="11.5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="55.0"></viz:size>
+        <viz:position x="-284.59985" y="0.8176586" z="0.0"></viz:position>
+        <viz:color r="60" g="229" b="60"></viz:color>
+      </node>
+      <node id="10" label="AJHamadi">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="1241.0"></attvalue>
+          <attvalue for="Friends" value="80.0"></attvalue>
+          <attvalue for="Tweets" value="18546.0"></attvalue>
+          <attvalue for="Site" value="http://www.snapchat.com/add/AJHamadi"></attvalue>
+          <attvalue for="Location" value="Doha"></attvalue>
+          <attvalue for="Created" value="Jan 21 2009"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="97.16788" y="-131.63876" z="0.0"></viz:position>
+        <viz:color r="60" g="229" b="60"></viz:color>
+      </node>
+      <node id="49" label="AbdulMayssaa">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="1474.0"></attvalue>
+          <attvalue for="Friends" value="3418.0"></attvalue>
+          <attvalue for="Tweets" value="510.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="lebanon"></attvalue>
+          <attvalue for="Created" value="Jan 10 2013"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-141.48613" y="-57.411674" z="0.0"></viz:position>
+        <viz:color r="60" g="229" b="60"></viz:color>
+      </node>
+      <node id="2" label="rugsan3">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="5.0"></attvalue>
+          <attvalue for="Friends" value="48.0"></attvalue>
+          <attvalue for="Tweets" value="1.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Nov 10 2014"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.8"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="77.5"></viz:size>
+        <viz:position x="-34.016945" y="-121.56048" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+      <node id="5" label="archragab1">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="2.0"></attvalue>
+          <attvalue for="Friends" value="38.0"></attvalue>
+          <attvalue for="Tweets" value="1.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Nov 01 2014"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="61.271717" y="27.652458" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="6" label="smhussien">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="7.0"></attvalue>
+          <attvalue for="Friends" value="7.0"></attvalue>
+          <attvalue for="Tweets" value="1.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Nov 02 2014"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.4"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="138.79642" y="82.00438" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="7" label="farhan_x3">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="3.0"></attvalue>
+          <attvalue for="Friends" value="11.0"></attvalue>
+          <attvalue for="Tweets" value="1.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Feb 26 2014"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.55"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-247.74971" y="86.72692" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="12" label="unjoe">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="1736.0"></attvalue>
+          <attvalue for="Friends" value="2074.0"></attvalue>
+          <attvalue for="Tweets" value="3560.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="New York; NY"></attvalue>
+          <attvalue for="Created" value="Jul 29 2009"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.3333333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="17.134205" y="6.5787373" z="0.0"></viz:position>
+        <viz:color r="60" g="229" b="60"></viz:color>
+      </node>
+      <node id="27" label="alibinalitravel">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="2004.0"></attvalue>
+          <attvalue for="Friends" value="1480.0"></attvalue>
+          <attvalue for="Tweets" value="1554.0"></attvalue>
+          <attvalue for="Site" value="http://www.alibinalitravel.com"></attvalue>
+          <attvalue for="Location" value="Doha; Qatar"></attvalue>
+          <attvalue for="Created" value="Feb 18 2014"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-100.62567" y="-235.9067" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+      <node id="29" label="telcoqatar">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="129.0"></attvalue>
+          <attvalue for="Friends" value="32.0"></attvalue>
+          <attvalue for="Tweets" value="55.0"></attvalue>
+          <attvalue for="Site" value="http://www.telcoqatar.com"></attvalue>
+          <attvalue for="Location" value="Doha Qatar"></attvalue>
+          <attvalue for="Created" value="Jun 27 2013"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="55.910027" y="74.52553" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="30" label="koemb_qa">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="492.0"></attvalue>
+          <attvalue for="Friends" value="26.0"></attvalue>
+          <attvalue for="Tweets" value="202.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Feb 10 2011"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-189.1763" y="-36.202484" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+      <node id="11" label="CircleQatarLtd">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="146.0"></attvalue>
+          <attvalue for="Friends" value="19.0"></attvalue>
+          <attvalue for="Tweets" value="41.0"></attvalue>
+          <attvalue for="Site" value="http://www.circleexhibitions.com"></attvalue>
+          <attvalue for="Location" value="Doha - Qatar"></attvalue>
+          <attvalue for="Created" value="Jan 12 2014"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="32.5"></viz:size>
+        <viz:position x="103.92013" y="-52.235237" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+      <node id="18" label="QatarHappening">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="140000.0"></attvalue>
+          <attvalue for="Friends" value="1281.0"></attvalue>
+          <attvalue for="Tweets" value="14220.0"></attvalue>
+          <attvalue for="Site" value="http://www.qatarhappening.com"></attvalue>
+          <attvalue for="Location" value="Doha Qatar"></attvalue>
+          <attvalue for="Created" value="May 31 2009"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="188.08047" y="-76.96585" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+      <node id="32" label="rusembassyqatar">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="1453.0"></attvalue>
+          <attvalue for="Friends" value="474.0"></attvalue>
+          <attvalue for="Tweets" value="1214.0"></attvalue>
+          <attvalue for="Site" value="https://www.facebook.com/rusembqatar"></attvalue>
+          <attvalue for="Location" value="Doha; Qatar"></attvalue>
+          <attvalue for="Created" value="Oct 31 2012"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="16.721525" y="-245.07384" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+      <node id="39" label="eltaeyr">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="8201.0"></attvalue>
+          <attvalue for="Friends" value="5156.0"></attvalue>
+          <attvalue for="Tweets" value="1081.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Jun 01 2011"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="157.09116" y="5.4358163" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="37" label="iYasMas">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="286.0"></attvalue>
+          <attvalue for="Friends" value="296.0"></attvalue>
+          <attvalue for="Tweets" value="80.0"></attvalue>
+          <attvalue for="Site" value="http://YasMas.com"></attvalue>
+          <attvalue for="Location" value="Jeddah KSA . Alex EG"></attvalue>
+          <attvalue for="Created" value="Jul 22 2014"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="107.88601" y="27.83047" z="0.0"></viz:position>
+        <viz:color r="229" g="60" b="60"></viz:color>
+      </node>
+      <node id="19" label="Dawaer_co">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="26193.0"></attvalue>
+          <attvalue for="Friends" value="27982.0"></attvalue>
+          <attvalue for="Tweets" value="998.0"></attvalue>
+          <attvalue for="Site" value="http://www.dawaer.ps"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Aug 02 2009"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="165.17911" y="-158.75375" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+      <node id="3" label="amtce1">
+        <attvalues>
+          <attvalue for="VerifiedStatus" value="false"></attvalue>
+          <attvalue for="Followers" value="137.0"></attvalue>
+          <attvalue for="Friends" value="97.0"></attvalue>
+          <attvalue for="Tweets" value="1.0"></attvalue>
+          <attvalue for="Site" value="N/A"></attvalue>
+          <attvalue for="Location" value="N/A"></attvalue>
+          <attvalue for="Created" value="Nov 01 2014"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5263157894736843"></attvalue>
+          <attvalue for="betweenesscentrality" value="47.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="92.5"></viz:size>
+        <viz:position x="-268.97964" y="-195.43266" z="0.0"></viz:position>
+        <viz:color r="60" g="60" b="229"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="62" source="8" target="35">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="66" source="8" target="40">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="67" source="8" target="36">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="63" source="8" target="44">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="65" source="8" target="31">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="60" source="8" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="64" source="8" target="29">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="61" source="8" target="11">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="57" source="8" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="34" source="4" target="35">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="39" source="4" target="40">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="35" source="4" target="36">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="44" source="4" target="44">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="45" source="4" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="37" source="4" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="38" source="4" target="39">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="36" source="4" target="37">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="33" source="4" target="19">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="43" source="4" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="73" source="9" target="10">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="69" source="9" target="49">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="17" source="2" target="31">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="11" source="2" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="8" source="2" target="27">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="10" source="2" target="29">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="15" source="2" target="30">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="12" source="2" target="11">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="16" source="2" target="18">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="18" source="2" target="32">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="19" source="2" target="19">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="7" source="2" target="3">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="50" source="5" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="54" source="6" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="52" source="6" target="39">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="53" source="6" target="37">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="56" source="7" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="85" source="12" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="79" source="12" target="49">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="77" source="11" target="18">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="30" source="3" target="8">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="32" source="3" target="4">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="28" source="3" target="9">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="29" source="3" target="27">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="25" source="3" target="30">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="21" source="3" target="11">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="26" source="3" target="18">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="27" source="3" target="32">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="31" source="3" target="19">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
